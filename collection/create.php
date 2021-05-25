@@ -332,7 +332,7 @@ data-styled.g262[id="collectionManagerIndex__DivContainer-gq0yuk-0"]{content:"kd
 <span class="Image--image" style="display:inline-block;object-fit:contain">
 </span>
 </div>
-<span class="Navbar--brand-name">OpenSea</span>
+<span class="Navbar--brand-name">FRI NFT</span>
 </a>
 <button class="UnstyledButtonreact__UnstyledButton-ty1bh0-0 eOLEwm Navbar--mobile-toggle" type="button">
 <i title="Show more" value="expand_more" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">expand_more</i>

@@ -1,4 +1,25 @@
-<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><link rel="preconnect"/><link href="https://www.google-analytics.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://storage.googleapis.com/opensea-static/favicon/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://storage.googleapis.com/opensea-static/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/><link href="https://storage.googleapis.com/opensea-static/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/><link href="https://storage.googleapis.com/opensea-static/favicon/site.webmanifest" rel="manifest"/><link href="https://storage.googleapis.com/opensea-static/favicon/favicon.ico" rel="shortcut icon"/><meta content="OpenSea" name="apple-mobile-web-app-title"/><meta content="OpenSea" name="application-name"/><meta content="#da532c" name="msapplication-TileColor"/><meta content="https://storage.googleapis.com/opensea-static/favicon/browserconfig.xml" name="msapplication-config"/><meta content="#FFFFFF" name="theme-color"/><link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet"/><link href="/opensearch.xml" rel="search" title="OpenSea" type="application/opensearchdescription+xml"/><script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.1/iframeResizer.contentWindow.min.js"></script><style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charSet="utf-8"/>
+<link rel="preconnect"/>
+<link href="https://www.google-analytics.com" rel="preconnect"/>
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://storage.googleapis.com/opensea-static/favicon/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://storage.googleapis.com/opensea-static/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://storage.googleapis.com/opensea-static/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="https://storage.googleapis.com/opensea-static/favicon/site.webmanifest" rel="manifest"/>
+<link href="https://storage.googleapis.com/opensea-static/favicon/favicon.ico" rel="shortcut icon"/>
+<meta content="OpenSea" name="apple-mobile-web-app-title"/>
+<meta content="OpenSea" name="application-name"/>
+<meta content="#da532c" name="msapplication-TileColor"/>
+<meta content="https://storage.googleapis.com/opensea-static/favicon/browserconfig.xml" name="msapplication-config"/>
+<meta content="#FFFFFF" name="theme-color"/>
+<link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet"/>
+<link href="/opensearch.xml" rel="search" title="OpenSea" type="application/opensearchdescription+xml"/>
+<script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.1/iframeResizer.contentWindow.min.js">
+</script>
+<style>
               html, body, #__next {
                 height: 100%;
                 margin: 0px;
@@ -6,7 +27,46 @@
               *, *::before, *::after {
                 box-sizing: border-box;
               }
-            </style><meta charSet="utf-8"/><meta content="summary_large_image" property="twitter:card"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/><meta content="summary_large_image" property="twitter:card"/><title>Collection Manager</title><meta content="Collection Manager" property="og:title"/><meta content="Manage your collections" property="og:description"/><meta content="https://storage.googleapis.com/opensea-static/opensea-brand/collection-manager.png" property="og:image"/><link href="https://opensea.io/collections" rel="canonical"/><meta content="290482bea3c8c8f9a5b64006fcdd0fdc" name="p:domain_verify"/><meta content="OpenSea" name="author"/><meta content="website" property="og:type"/><meta content="OpenSea" property="og:site_name"/><meta content="Manage your collections" name="description"/><meta content="hMdfCgnav7IgocRK" name="fortmatic-site-verification"/><meta name="next-head-count" content="15"/><link rel="preload" href="/_next/static/css/810eee84d49a36e81867.css" as="style"/><link rel="stylesheet" href="/_next/static/css/810eee84d49a36e81867.css" data-n-g=""/><link rel="preload" href="/_next/static/css/2435cf0b4a7c4b473cb2.css" as="style"/><link rel="stylesheet" href="/_next/static/css/2435cf0b4a7c4b473cb2.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="/_next/static/chunks/webpack-7010d140300339d81cf7.js" as="script"/><link rel="preload" href="/_next/static/chunks/framework.975f134769a4ddb9c659.js" as="script"/><link rel="preload" href="/_next/static/chunks/commons.5ee575748df86daa0c60.js" as="script"/><link rel="preload" href="/_next/static/chunks/main-7681e84004a21604c2be.js" as="script"/><link rel="preload" href="/_next/static/chunks/c78d26b1.0206c1bd9e700fff603f.js" as="script"/><link rel="preload" href="/_next/static/chunks/49790189.9e87d1fc76ce6e4c70a0.js" as="script"/><link rel="preload" href="/_next/static/chunks/b5a2aaf6.cecc1452d7fc730844e5.js" as="script"/><link rel="preload" href="/_next/static/chunks/0614091c.999f8b65b9497fa04234.js" as="script"/><link rel="preload" href="/_next/static/chunks/35270ec8.aff521c3043b9a660eb0.js" as="script"/><link rel="preload" href="/_next/static/chunks/ec23b2e1.6dc1706c3f598149aa84.js" as="script"/><link rel="preload" href="/_next/static/chunks/e971612a.4a560fd6abf12c175d4a.js" as="script"/><link rel="preload" href="/_next/static/chunks/5badfc14ec4edfba9f08858a5807f977e7fe4adb.cd6bd05ef0c4d2201135.js" as="script"/><link rel="preload" href="/_next/static/chunks/a757a54d7d2d1f81c5d4322487dc57b7e58d2d18.ca293dedda3089416699.js" as="script"/><link rel="preload" href="/_next/static/chunks/2353c06a83ed77e4f81669d770ffd49d2b527875.409eab508cabbefc6a14.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/_app-c3288f9ef29c394fd077.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/collectionManagerIndex-02c94227d1a76576c9a3.js" as="script"/><style data-styled="" data-styled-version="5.3.0">.korDcC{margin-top:16px;}/*!sc*/
+            </style>
+<meta charSet="utf-8"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<title>Collection Manager</title>
+<meta content="Collection Manager" property="og:title"/>
+<meta content="Manage your collections" property="og:description"/>
+<meta content="https://storage.googleapis.com/opensea-static/opensea-brand/collection-manager.png" property="og:image"/>
+<link href="https://opensea.io/collections" rel="canonical"/>
+<meta content="290482bea3c8c8f9a5b64006fcdd0fdc" name="p:domain_verify"/>
+<meta content="OpenSea" name="author"/>
+<meta content="website" property="og:type"/>
+<meta content="OpenSea" property="og:site_name"/>
+<meta content="Manage your collections" name="description"/>
+<meta content="hMdfCgnav7IgocRK" name="fortmatic-site-verification"/>
+<meta name="next-head-count" content="15"/>
+<link rel="preload" href="/_next/static/css/810eee84d49a36e81867.css" as="style"/>
+<link rel="stylesheet" href="/_next/static/css/810eee84d49a36e81867.css" data-n-g=""/>
+<link rel="preload" href="/_next/static/css/2435cf0b4a7c4b473cb2.css" as="style"/>
+<link rel="stylesheet" href="/_next/static/css/2435cf0b4a7c4b473cb2.css" data-n-g=""/>
+<noscript data-n-css="">
+</noscript>
+<!-- <link rel="preload" href="/_next/static/chunks/webpack-7010d140300339d81cf7.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/framework.975f134769a4ddb9c659.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/commons.5ee575748df86daa0c60.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/main-7681e84004a21604c2be.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/c78d26b1.0206c1bd9e700fff603f.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/49790189.9e87d1fc76ce6e4c70a0.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/b5a2aaf6.cecc1452d7fc730844e5.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/0614091c.999f8b65b9497fa04234.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/35270ec8.aff521c3043b9a660eb0.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/ec23b2e1.6dc1706c3f598149aa84.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/e971612a.4a560fd6abf12c175d4a.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/5badfc14ec4edfba9f08858a5807f977e7fe4adb.cd6bd05ef0c4d2201135.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/a757a54d7d2d1f81c5d4322487dc57b7e58d2d18.ca293dedda3089416699.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/2353c06a83ed77e4f81669d770ffd49d2b527875.409eab508cabbefc6a14.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/pages/_app-c3288f9ef29c394fd077.js" as="script"/>
+<link rel="preload" href="/_next/static/chunks/pages/collectionManagerIndex-02c94227d1a76576c9a3.js" as="script"/> -->
+<style data-styled="" data-styled-version="5.3.0">.korDcC{margin-top:16px;}/*!sc*/
 data-styled.g1[id="Blockreact__Block-sc-18q9hu0-0"]{content:"dFhPys,korDcC,"}/*!sc*/
 .iHEOXl{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
 data-styled.g2[id="Flexreact__Flex-sc-19zejk6-0"]{content:"iHEOXl,"}/*!sc*/
@@ -257,5 +317,271 @@ data-styled.g261[id="CreateCollectionreact__DivCreateCollection-sc-12vimer-0"]{c
 .kdgDqm .collectionManagerIndex--upsell-cards .collectionManagerIndex--upsell-card .collectionManagerIndex--upsell-content .collectionManagerIndex--upsell-image-wrapper .collectionManagerIndex--upsell-image{object-fit:contain;height:100%;width:100%;}/*!sc*/
 @media (min-width:600px){.kdgDqm .collectionManagerIndex--upsell-cards{-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;}.kdgDqm .collectionManagerIndex--upsell-cards .collectionManagerIndex--upsell-card{margin:0 16px 16px 0;}}/*!sc*/
 data-styled.g262[id="collectionManagerIndex__DivContainer-gq0yuk-0"]{content:"kdgDqm,"}/*!sc*/
-</style></head><body><div id="__next"><div class="AppContainerreact__DivContainer-bcljl-0 jZDYAz App"><div><div><div class="Navbarreact__DivContainer-d040ow-0 gCmLZo"><nav class="Navbar--main"><div class="Navbar--left"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL Navbar--brand" href="/"><div class="Imagereact__DivContainer-dy59cl-0 jKreEB Image--isImageLoaderDisplayed" style="height:32px;width:32px"><span class="Image--image" style="display:inline-block;object-fit:contain"></span></div><span class="Navbar--brand-name">OpenSea</span></a><button class="UnstyledButtonreact__UnstyledButton-ty1bh0-0 eOLEwm Navbar--mobile-toggle" type="button"><i title="Show more" value="expand_more" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">expand_more</i></button></div><div class="NavSearchreact__DivContainer-yexslu-0 cWNEPu"><div class="SearchInputreact__DivContainer-sc-12d3wg6-0 hLLvoI NavSearch--input"><i class="Iconreact__Icon-sc-1gugx8q-0 bPKBKm SearchInput--icon material-icons SearchInput--icon" color="gray" value="search" size="24">search</i><input type="text" class="browser-default SearchInput--input" placeholder="Search items, collections, and accounts" value=""/></div></div><ul class="Navbar--items"><li class="NavItemreact__LiContainer-sc-1agh4ne-0 gnvCki NavItem--isRoot"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL NavItem--main " href="/assets">Marketplace</a></li><li class="NavItemreact__LiContainer-sc-1agh4ne-0 gnvCki NavItem--isRoot"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL NavItem--main " href="/rankings">Stats</a></li><li class="NavItemreact__LiContainer-sc-1agh4ne-0 gnvCki NavItem--isRoot"><a class="NavItem--main" href="https://openseahelp.zendesk.com/" rel="noreferrer" target="_blank">Resources</a></li><li class="NavItemreact__LiContainer-sc-1agh4ne-0 dGulIb NavItem--isRoot"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL NavItem--main NavItem--withIcon " href="/account"><i class="Iconreact__Icon-sc-1gugx8q-0 irmodc NavItem--icon material-icons-outlined NavItem--icon" size="30" value="account_circle">account_circle</i></a></li><li class="NavItemreact__LiContainer-sc-1agh4ne-0 dGulIb NavItem--isRoot"><button class="UnstyledButtonreact__UnstyledButton-ty1bh0-0 eOLEwm NavItem--main NavItem--withIcon" type="button"><i class="Iconreact__Icon-sc-1gugx8q-0 irmodc NavItem--icon material-icons-outlined NavItem--icon" size="30" title="Wallet" value="account_balance_wallet">account_balance_wallet</i></button></li></ul></nav></div><aside class="Blockreact__Block-sc-18q9hu0-0 Drawerreact__ContainerDiv-sc-1un5qtt-4 dFhPys ksKFCt"></aside><main class="AppContainer--main"><span><div class="Error Notice row" data-testid="Error"></div></span><span><div class="Notice row"></div></span><div><div class="CollectionManagerreact__DivContainer-sc-11rlifb-0 fISekz"><section class="CollectionManager--sidebar"><div class="CollectionManager--sidebar-link CollectionManager--sidebar-link-disabled"><div class="CollectionManager--sidebar-item"><i value="view_list" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">view_list</i> <span class="CollectionManager--sidebar-item-text">My Payouts</span></div></div><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL CollectionManager--sidebar-link CollectionManager--sidebar-link-active" href="/collections"><div class="CollectionManager--sidebar-item"><i value="store" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">store</i> <span class="CollectionManager--sidebar-item-text">My Collections</span></div></a><a class="CollectionManager--sidebar-link" href="https://discord.gg/opensea"><div class="CollectionManager--sidebar-item"><i value="info" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons-outlined">info</i> <span class="CollectionManager--sidebar-item-text">Community &amp; Help</span></div></a></section><section class=" CollectionManager--main"><div class="CollectionManager--container CollectionManager--container-with-margins"><header class="CollectionManager--header-container"><h1 class="Blockreact__Block-sc-18q9hu0-0 dFhPys CollectionManager--header-title">My Collections</h1><div class="CollectionManager--header-subtitle"><div>Create collections (your own storefronts), upload digital creations, configure your royalty, and sell NFTs to your fans - all for free!<br/>You can also manage smart contracts that you created outside of OpenSea.<!-- --> <a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://opensea.io/blog/announcements/introducing-the-collection-manager/" rel="nofollow noopener" target="_blank"><strong>Learn more</strong></a></div></div></header><div class="collectionManagerIndex__DivContainer-gq0yuk-0 kdgDqm"><div class="collectionManagerIndex--loader"><svg style="width:64px;height:64px" viewBox="0 0 120 120" class="Loaderreact__SVGContainer-xobxp2-0 iaVuvG"><circle class="Loader--inner-circle" cx="60" cy="60" r="30"></circle><circle class="Loader--outer-circle" cx="60" cy="60" r="50"></circle></svg><p class="Blockreact__Block-sc-18q9hu0-0 Textreact__Text-sc-1cvs3a3-0 dFhPys fEruuJ">Connecting to your wallet</p></div><div class="Blockreact__Block-sc-18q9hu0-0 Flexreact__Flex-sc-19zejk6-0 FlexVerticalreact__FlexVertical-x35rw8-0 VerticalAlignedreact__VerticalAligned-sc-1v4gkkl-0 CenterAlignedreact__CenterAligned-sc-1ek5672-0 dFhPys iHEOXl bzGAyb gJMdLt dpwCtQ"></div><div><hr class="collectionManagerIndex--upsell-divider"/><h4>Looking for other NFT creation tools?</h4><p class="collectionManagerIndex--upsell-description">OpenSea is compatible with open blockchain standards, so you can create your work on other platforms, and come back and sell your work on OpenSea.</p></div><div class="collectionManagerIndex--upsell-cards"><div class="collectionManagerIndex--upsell-card"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://app.rarible.com/create" rel="nofollow noopener" target="_blank"><div class="collectionManagerIndex--upsell-content"><div class="collectionManagerIndex--upsell-image-wrapper"><img src="/static/images/logos/rarible.svg"/></div><div>Rarible is a community-governed platform for creating digital assets, with support for the ERC1155 standard.</div></div></a></div><div class="collectionManagerIndex--upsell-card"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://mintbase.io/" rel="nofollow noopener" target="_blank"><div class="collectionManagerIndex--upsell-content"><div class="collectionManagerIndex--upsell-image-wrapper"><img src="/static/images/logos/mintbase.svg"/></div><div>Mintbase is a refined platform for creating digital assets, with support for batch minting ERC721s.</div></div></a></div><div class="collectionManagerIndex--upsell-card"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://app.cargo.build/" rel="nofollow noopener" target="_blank"><div class="collectionManagerIndex--upsell-content"><div class="collectionManagerIndex--upsell-image-wrapper"><img class="collectionManagerIndex--upsell-image" src="/static/images/logos/cargo.svg"/></div><div>Cargo is a token minting platform specializing in efficient batch minting of ERC721s.</div></div></a></div><div class="collectionManagerIndex--upsell-card"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://mintable.app/" rel="nofollow noopener" target="_blank"><div class="collectionManagerIndex--upsell-content"><div class="collectionManagerIndex--upsell-image-wrapper"><img class="collectionManagerIndex--upsell-image" src="/static/images/logos/mintable.svg"/></div><div>Mintable is a community controlled token minting platform with some unique features.</div></div></a></div><div class="collectionManagerIndex--upsell-card"><a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://zora.co/" rel="nofollow noopener" target="_blank"><div class="collectionManagerIndex--upsell-content"><div class="collectionManagerIndex--upsell-image-wrapper"><img class="collectionManagerIndex--upsell-image" src="/static/images/logos/zora.png"/></div><div>Zora is a permissionless protocol to mint, share and exchange NFTs.</div></div></a></div></div><div aria-hidden="true" class="Modalreact__DivContainer-sc-15x0689-0 iJeHZ Modal Modal--hidden " role="dialog"><div class="Modal--container"><i class="Iconreact__Icon-sc-1gugx8q-0 iPqAYy Modal--close material-icons Modal--close" title="Close" value="close" size="24">close</i><div class="CreateCollectionreact__DivCreateCollection-sc-12vimer-0 cySigB"><div class="CreateCollection--form"><h4 class="CreateCollection--header">Create your collection</h4><p class="CreateCollection--info">You can change these values later, along with configuring external URLs, payment options, and trading fees.</p><form class="Formreact__FormContainer-t32vlq-0 cnRIQt"><input type="submit" class="Form--submit"/><div><label for="image">Logo *</label><header class="light-text">(350 x 350 recommended)</header><div class="ImageInputreact__DivContainer-h0z0qe-0 jsrMST  CreateCollection--input"><div class="Imagereact__DivContainer-dy59cl-0 jKreEB Image--isImageLoaderDisplayed ImageInput--image" style="height:100%;width:100%"><div class="Image--content"><div class="ImageInput--wrapper"><input type="file" accept="image/*" class="ImageInput--input" id="image" name="image"/><i class="Iconreact__Icon-sc-1gugx8q-0 irnoQt ImageInput--icon material-icons ImageInput--icon" value="image" size="24">image</i></div></div></div></div></div><div><label for="name">Name *</label><div class="Inputreact__DivContainer-sc-17icy78-0 eoUJDn"><div class="Input--main "><div class="Input--prefix"></div><input type="text" autoCapitalize="off" autoComplete="off" autoCorrect="off" class="browser-default Input--input" data-testid="Input" id="name" name="name" placeholder="Example: Treasures of the Sea" required="" spellcheck="false" value=""/></div></div></div><div class="Blockreact__Block-sc-18q9hu0-0 korDcC"><label for="description">Description</label><header class="light-text">0<!-- --> of <!-- -->1000<!-- --> characters used</header><textarea class="TextAreareact__TextAreaImpl-sc-1dlb6ar-0 eEXcpO  CreateCollection--input" id="description" maxLength="1000" name="description" placeholder="Provide a description for your store. Markdown syntax is supported." rows="4"></textarea></div><div class="CreateCollection--actions"><div class="ActionButtonreact__DivButton-sc-7jpoey-0 bLYPWe ActionButton--isDisabled ActionButton--light" data-testid="ActionButton" disabled="" role="button" tabindex="0"><div class="ActionButton--content" style="min-width:120px">Create</div></div></div></form></div></div></div></div></div></div></section></div></div></main><div></div></div></div></div><div></div><div class="Blockreact__Block-sc-18q9hu0-0 Flexreact__Flex-sc-19zejk6-0 Toastsreact__DivContainer-sc-157drct-0 dFhPys iHEOXl dPgKkx"></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"chainIdentifier":"ETHEREUM","isDesktop":true,"isMobile":false,"isTestnet":false,"pageProps":{"variables":{"count":10}},"isWebPSupported":true,"isAuthenticated":false,"theme":"light"},"page":"/collectionManagerIndex","query":{},"buildId":"N-j_bM_fWgmBrjhfR5Z4B","isFallback":false,"customServer":true,"gip":true,"appGip":true}</script><script nomodule="" src="/_next/static/chunks/polyfills-ea97d725be1a2c46f4c2.js"></script><script src="/_next/static/chunks/webpack-7010d140300339d81cf7.js" async=""></script><script src="/_next/static/chunks/framework.975f134769a4ddb9c659.js" async=""></script><script src="/_next/static/chunks/commons.5ee575748df86daa0c60.js" async=""></script><script src="/_next/static/chunks/main-7681e84004a21604c2be.js" async=""></script><script src="/_next/static/chunks/c78d26b1.0206c1bd9e700fff603f.js" async=""></script><script src="/_next/static/chunks/49790189.9e87d1fc76ce6e4c70a0.js" async=""></script><script src="/_next/static/chunks/b5a2aaf6.cecc1452d7fc730844e5.js" async=""></script><script src="/_next/static/chunks/0614091c.999f8b65b9497fa04234.js" async=""></script><script src="/_next/static/chunks/35270ec8.aff521c3043b9a660eb0.js" async=""></script><script src="/_next/static/chunks/ec23b2e1.6dc1706c3f598149aa84.js" async=""></script><script src="/_next/static/chunks/e971612a.4a560fd6abf12c175d4a.js" async=""></script><script src="/_next/static/chunks/5badfc14ec4edfba9f08858a5807f977e7fe4adb.cd6bd05ef0c4d2201135.js" async=""></script><script src="/_next/static/chunks/a757a54d7d2d1f81c5d4322487dc57b7e58d2d18.ca293dedda3089416699.js" async=""></script><script src="/_next/static/chunks/2353c06a83ed77e4f81669d770ffd49d2b527875.409eab508cabbefc6a14.js" async=""></script><script src="/_next/static/chunks/pages/_app-c3288f9ef29c394fd077.js" async=""></script><script src="/_next/static/chunks/pages/collectionManagerIndex-02c94227d1a76576c9a3.js" async=""></script><script src="/_next/static/N-j_bM_fWgmBrjhfR5Z4B/_buildManifest.js" async=""></script><script src="/_next/static/N-j_bM_fWgmBrjhfR5Z4B/_ssgManifest.js" async=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6550f63c4ed93526","token":"96047490de144c8b91be74ba7605ab69","version":"2021.5.1","si":10}'></script>
-</body></html>
+</style>
+</head>
+<body>
+<div id="__next">
+<div class="AppContainerreact__DivContainer-bcljl-0 jZDYAz App">
+<div>
+<div>
+<div class="Navbarreact__DivContainer-d040ow-0 gCmLZo">
+<nav class="Navbar--main">
+<div class="Navbar--left">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL Navbar--brand" href="/">
+<div class="Imagereact__DivContainer-dy59cl-0 jKreEB Image--isImageLoaderDisplayed" style="height:32px;width:32px">
+<span class="Image--image" style="display:inline-block;object-fit:contain">
+</span>
+</div>
+<span class="Navbar--brand-name">OpenSea</span>
+</a>
+<button class="UnstyledButtonreact__UnstyledButton-ty1bh0-0 eOLEwm Navbar--mobile-toggle" type="button">
+<i title="Show more" value="expand_more" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">expand_more</i>
+</button>
+</div>
+<div class="NavSearchreact__DivContainer-yexslu-0 cWNEPu">
+<div class="SearchInputreact__DivContainer-sc-12d3wg6-0 hLLvoI NavSearch--input">
+<i class="Iconreact__Icon-sc-1gugx8q-0 bPKBKm SearchInput--icon material-icons SearchInput--icon" color="gray" value="search" size="24">search</i>
+<input type="text" class="browser-default SearchInput--input" placeholder="Search items, collections, and accounts" value=""/>
+</div>
+</div>
+<ul class="Navbar--items">
+<li class="NavItemreact__LiContainer-sc-1agh4ne-0 gnvCki NavItem--isRoot">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL NavItem--main " href="/assets">Marketplace</a>
+</li>
+<li class="NavItemreact__LiContainer-sc-1agh4ne-0 gnvCki NavItem--isRoot">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL NavItem--main " href="/rankings">Stats</a>
+</li>
+<li class="NavItemreact__LiContainer-sc-1agh4ne-0 gnvCki NavItem--isRoot">
+<a class="NavItem--main" href="https://openseahelp.zendesk.com/" rel="noreferrer" target="_blank">Resources</a>
+</li>
+<li class="NavItemreact__LiContainer-sc-1agh4ne-0 dGulIb NavItem--isRoot">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL NavItem--main NavItem--withIcon " href="/account">
+<i class="Iconreact__Icon-sc-1gugx8q-0 irmodc NavItem--icon material-icons-outlined NavItem--icon" size="30" value="account_circle">account_circle</i>
+</a>
+</li>
+<li class="NavItemreact__LiContainer-sc-1agh4ne-0 dGulIb NavItem--isRoot">
+<button class="UnstyledButtonreact__UnstyledButton-ty1bh0-0 eOLEwm NavItem--main NavItem--withIcon" type="button">
+<i class="Iconreact__Icon-sc-1gugx8q-0 irmodc NavItem--icon material-icons-outlined NavItem--icon" size="30" title="Wallet" value="account_balance_wallet">account_balance_wallet</i>
+</button>
+</li>
+</ul>
+</nav>
+</div>
+<aside class="Blockreact__Block-sc-18q9hu0-0 Drawerreact__ContainerDiv-sc-1un5qtt-4 dFhPys ksKFCt">
+</aside>
+<main class="AppContainer--main">
+<span>
+<div class="Error Notice row" data-testid="Error">
+</div>
+</span>
+<span>
+<div class="Notice row">
+</div>
+</span>
+<div>
+<div class="CollectionManagerreact__DivContainer-sc-11rlifb-0 fISekz">
+<section class="CollectionManager--sidebar">
+<div class="CollectionManager--sidebar-link CollectionManager--sidebar-link-disabled">
+<div class="CollectionManager--sidebar-item">
+<i value="view_list" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">view_list</i> <span class="CollectionManager--sidebar-item-text">My Payouts</span>
+</div>
+</div>
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL CollectionManager--sidebar-link CollectionManager--sidebar-link-active" href="/collections">
+<div class="CollectionManager--sidebar-item">
+<i value="store" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons">store</i> <span class="CollectionManager--sidebar-item-text">My Collections</span>
+</div>
+</a>
+<a class="CollectionManager--sidebar-link" href="https://discord.gg/opensea">
+<div class="CollectionManager--sidebar-item">
+<i value="info" size="24" class="Iconreact__Icon-sc-1gugx8q-0 irnoQt material-icons-outlined">info</i> <span class="CollectionManager--sidebar-item-text">Community &amp; Help</span>
+</div>
+</a>
+</section>
+<section class=" CollectionManager--main">
+<div class="CollectionManager--container CollectionManager--container-with-margins">
+<header class="CollectionManager--header-container">
+<h1 class="Blockreact__Block-sc-18q9hu0-0 dFhPys CollectionManager--header-title">My Collections</h1>
+<div class="CollectionManager--header-subtitle">
+<div>Create collections (your own storefronts), upload digital creations, configure your royalty, and sell NFTs to your fans - all for free!<br/>You can also manage smart contracts that you created outside of OpenSea.<!-- --> <a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://opensea.io/blog/announcements/introducing-the-collection-manager/" rel="nofollow noopener" target="_blank">
+<strong>Learn more</strong>
+</a>
+</div>
+</div>
+</header>
+<div class="collectionManagerIndex__DivContainer-gq0yuk-0 kdgDqm">
+<div class="collectionManagerIndex--loader">
+<svg style="width:64px;height:64px" viewBox="0 0 120 120" class="Loaderreact__SVGContainer-xobxp2-0 iaVuvG">
+<circle class="Loader--inner-circle" cx="60" cy="60" r="30">
+</circle>
+<circle class="Loader--outer-circle" cx="60" cy="60" r="50">
+</circle>
+</svg>
+<p class="Blockreact__Block-sc-18q9hu0-0 Textreact__Text-sc-1cvs3a3-0 dFhPys fEruuJ">Connecting to your wallet</p>
+</div>
+<div class="Blockreact__Block-sc-18q9hu0-0 Flexreact__Flex-sc-19zejk6-0 FlexVerticalreact__FlexVertical-x35rw8-0 VerticalAlignedreact__VerticalAligned-sc-1v4gkkl-0 CenterAlignedreact__CenterAligned-sc-1ek5672-0 dFhPys iHEOXl bzGAyb gJMdLt dpwCtQ">
+</div>
+<div>
+<hr class="collectionManagerIndex--upsell-divider"/>
+<h4>Looking for other NFT creation tools?</h4>
+<p class="collectionManagerIndex--upsell-description">OpenSea is compatible with open blockchain standards, so you can create your work on other platforms, and come back and sell your work on OpenSea.</p>
+</div>
+<div class="collectionManagerIndex--upsell-cards">
+<div class="collectionManagerIndex--upsell-card">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://app.rarible.com/create" rel="nofollow noopener" target="_blank">
+<div class="collectionManagerIndex--upsell-content">
+<div class="collectionManagerIndex--upsell-image-wrapper">
+<img src="/static/images/logos/rarible.svg"/>
+</div>
+<div>Rarible is a community-governed platform for creating digital assets, with support for the ERC1155 standard.</div>
+</div>
+</a>
+</div>
+<div class="collectionManagerIndex--upsell-card">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://mintbase.io/" rel="nofollow noopener" target="_blank">
+<div class="collectionManagerIndex--upsell-content">
+<div class="collectionManagerIndex--upsell-image-wrapper">
+<img src="/static/images/logos/mintbase.svg"/>
+</div>
+<div>Mintbase is a refined platform for creating digital assets, with support for batch minting ERC721s.</div>
+</div>
+</a>
+</div>
+<div class="collectionManagerIndex--upsell-card">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://app.cargo.build/" rel="nofollow noopener" target="_blank">
+<div class="collectionManagerIndex--upsell-content">
+<div class="collectionManagerIndex--upsell-image-wrapper">
+<img class="collectionManagerIndex--upsell-image" src="/static/images/logos/cargo.svg"/>
+</div>
+<div>Cargo is a token minting platform specializing in efficient batch minting of ERC721s.</div>
+</div>
+</a>
+</div>
+<div class="collectionManagerIndex--upsell-card">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://mintable.app/" rel="nofollow noopener" target="_blank">
+<div class="collectionManagerIndex--upsell-content">
+<div class="collectionManagerIndex--upsell-image-wrapper">
+<img class="collectionManagerIndex--upsell-image" src="/static/images/logos/mintable.svg"/>
+</div>
+<div>Mintable is a community controlled token minting platform with some unique features.</div>
+</div>
+</a>
+</div>
+<div class="collectionManagerIndex--upsell-card">
+<a class="Linkreact__StyledA-sc-2wdtl1-0 beDHjL" href="https://zora.co/" rel="nofollow noopener" target="_blank">
+<div class="collectionManagerIndex--upsell-content">
+<div class="collectionManagerIndex--upsell-image-wrapper">
+<img class="collectionManagerIndex--upsell-image" src="/static/images/logos/zora.png"/>
+</div>
+<div>Zora is a permissionless protocol to mint, share and exchange NFTs.</div>
+</div>
+</a>
+</div>
+</div>
+<div aria-hidden="true" class="Modalreact__DivContainer-sc-15x0689-0 iJeHZ Modal Modal--hidden " role="dialog">
+<div class="Modal--container">
+<i class="Iconreact__Icon-sc-1gugx8q-0 iPqAYy Modal--close material-icons Modal--close" title="Close" value="close" size="24">close</i>
+<div class="CreateCollectionreact__DivCreateCollection-sc-12vimer-0 cySigB">
+<div class="CreateCollection--form">
+<h4 class="CreateCollection--header">Create your collection</h4>
+<p class="CreateCollection--info">You can change these values later, along with configuring external URLs, payment options, and trading fees.</p>
+<form class="Formreact__FormContainer-t32vlq-0 cnRIQt">
+<input type="submit" class="Form--submit"/>
+<div>
+<label for="image">Logo *</label>
+<header class="light-text">(350 x 350 recommended)</header>
+<div class="ImageInputreact__DivContainer-h0z0qe-0 jsrMST  CreateCollection--input">
+<div class="Imagereact__DivContainer-dy59cl-0 jKreEB Image--isImageLoaderDisplayed ImageInput--image" style="height:100%;width:100%">
+<div class="Image--content">
+<div class="ImageInput--wrapper">
+<input type="file" accept="image/*" class="ImageInput--input" id="image" name="image"/>
+<i class="Iconreact__Icon-sc-1gugx8q-0 irnoQt ImageInput--icon material-icons ImageInput--icon" value="image" size="24">image</i>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<label for="name">Name *</label>
+<div class="Inputreact__DivContainer-sc-17icy78-0 eoUJDn">
+<div class="Input--main ">
+<div class="Input--prefix">
+</div>
+<input type="text" autoCapitalize="off" autoComplete="off" autoCorrect="off" class="browser-default Input--input" data-testid="Input" id="name" name="name" placeholder="Example: Treasures of the Sea" required="" spellcheck="false" value=""/>
+</div>
+</div>
+</div>
+<div class="Blockreact__Block-sc-18q9hu0-0 korDcC">
+<label for="description">Description</label>
+<header class="light-text">0<!-- --> of <!-- -->1000<!-- --> characters used</header>
+<textarea class="TextAreareact__TextAreaImpl-sc-1dlb6ar-0 eEXcpO  CreateCollection--input" id="description" maxLength="1000" name="description" placeholder="Provide a description for your store. Markdown syntax is supported." rows="4">
+</textarea>
+</div>
+<div class="CreateCollection--actions">
+<div class="ActionButtonreact__DivButton-sc-7jpoey-0 bLYPWe ActionButton--isDisabled ActionButton--light" data-testid="ActionButton" disabled="" role="button" tabindex="0">
+<div class="ActionButton--content" style="min-width:120px">Create</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</main>
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+<div class="Blockreact__Block-sc-18q9hu0-0 Flexreact__Flex-sc-19zejk6-0 Toastsreact__DivContainer-sc-157drct-0 dFhPys iHEOXl dPgKkx">
+</div>
+</div>
+<script id="__NEXT_DATA__" type="application/json">{"props":{"chainIdentifier":"ETHEREUM","isDesktop":true,"isMobile":false,"isTestnet":false,"pageProps":{"variables":{"count":10}},"isWebPSupported":true,"isAuthenticated":false,"theme":"light"},"page":"/collectionManagerIndex","query":{},"buildId":"N-j_bM_fWgmBrjhfR5Z4B","isFallback":false,"customServer":true,"gip":true,"appGip":true}</script>
+<!-- <script nomodule="" src="/_next/static/chunks/polyfills-ea97d725be1a2c46f4c2.js">
+</script>
+<script src="/_next/static/chunks/webpack-7010d140300339d81cf7.js" async="">
+</script>
+<script src="/_next/static/chunks/framework.975f134769a4ddb9c659.js" async="">
+</script>
+<script src="/_next/static/chunks/commons.5ee575748df86daa0c60.js" async="">
+</script>
+<script src="/_next/static/chunks/main-7681e84004a21604c2be.js" async="">
+</script>
+<script src="/_next/static/chunks/c78d26b1.0206c1bd9e700fff603f.js" async="">
+</script>
+<script src="/_next/static/chunks/49790189.9e87d1fc76ce6e4c70a0.js" async="">
+</script>
+<script src="/_next/static/chunks/b5a2aaf6.cecc1452d7fc730844e5.js" async="">
+</script>
+<script src="/_next/static/chunks/0614091c.999f8b65b9497fa04234.js" async="">
+</script>
+<script src="/_next/static/chunks/35270ec8.aff521c3043b9a660eb0.js" async="">
+</script>
+<script src="/_next/static/chunks/ec23b2e1.6dc1706c3f598149aa84.js" async="">
+</script>
+<script src="/_next/static/chunks/e971612a.4a560fd6abf12c175d4a.js" async="">
+</script>
+<script src="/_next/static/chunks/5badfc14ec4edfba9f08858a5807f977e7fe4adb.cd6bd05ef0c4d2201135.js" async="">
+</script>
+<script src="/_next/static/chunks/a757a54d7d2d1f81c5d4322487dc57b7e58d2d18.ca293dedda3089416699.js" async="">
+</script>
+<script src="/_next/static/chunks/2353c06a83ed77e4f81669d770ffd49d2b527875.409eab508cabbefc6a14.js" async="">
+</script>
+<script src="/_next/static/chunks/pages/_app-c3288f9ef29c394fd077.js" async="">
+</script>
+<script src="/_next/static/chunks/pages/collectionManagerIndex-02c94227d1a76576c9a3.js" async="">
+</script>
+<script src="/_next/static/N-j_bM_fWgmBrjhfR5Z4B/_buildManifest.js" async="">
+</script>
+<script src="/_next/static/N-j_bM_fWgmBrjhfR5Z4B/_ssgManifest.js" async="">
+</script> -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6550f63c4ed93526","token":"96047490de144c8b91be74ba7605ab69","version":"2021.5.1","si":10}'>
+</script>
+</body>
+</html>

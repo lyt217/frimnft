@@ -543,44 +543,7 @@ data-styled.g262[id="collectionManagerIndex__DivContainer-gq0yuk-0"]{content:"kd
 </div>
 </div>
 <script id="__NEXT_DATA__" type="application/json">{"props":{"chainIdentifier":"ETHEREUM","isDesktop":true,"isMobile":false,"isTestnet":false,"pageProps":{"variables":{"count":10}},"isWebPSupported":true,"isAuthenticated":false,"theme":"light"},"page":"/collectionManagerIndex","query":{},"buildId":"N-j_bM_fWgmBrjhfR5Z4B","isFallback":false,"customServer":true,"gip":true,"appGip":true}</script>
-<!-- <script nomodule="" src="/_next/static/chunks/polyfills-ea97d725be1a2c46f4c2.js">
-</script>
-<script src="/_next/static/chunks/webpack-7010d140300339d81cf7.js" async="">
-</script>
-<script src="/_next/static/chunks/framework.975f134769a4ddb9c659.js" async="">
-</script>
-<script src="/_next/static/chunks/commons.5ee575748df86daa0c60.js" async="">
-</script>
-<script src="/_next/static/chunks/main-7681e84004a21604c2be.js" async="">
-</script>
-<script src="/_next/static/chunks/c78d26b1.0206c1bd9e700fff603f.js" async="">
-</script>
-<script src="/_next/static/chunks/49790189.9e87d1fc76ce6e4c70a0.js" async="">
-</script>
-<script src="/_next/static/chunks/b5a2aaf6.cecc1452d7fc730844e5.js" async="">
-</script>
-<script src="/_next/static/chunks/0614091c.999f8b65b9497fa04234.js" async="">
-</script>
-<script src="/_next/static/chunks/35270ec8.aff521c3043b9a660eb0.js" async="">
-</script>
-<script src="/_next/static/chunks/ec23b2e1.6dc1706c3f598149aa84.js" async="">
-</script>
-<script src="/_next/static/chunks/e971612a.4a560fd6abf12c175d4a.js" async="">
-</script>
-<script src="/_next/static/chunks/5badfc14ec4edfba9f08858a5807f977e7fe4adb.cd6bd05ef0c4d2201135.js" async="">
-</script>
-<script src="/_next/static/chunks/a757a54d7d2d1f81c5d4322487dc57b7e58d2d18.ca293dedda3089416699.js" async="">
-</script>
-<script src="/_next/static/chunks/2353c06a83ed77e4f81669d770ffd49d2b527875.409eab508cabbefc6a14.js" async="">
-</script>
-<script src="/_next/static/chunks/pages/_app-c3288f9ef29c394fd077.js" async="">
-</script>
-<script src="/_next/static/chunks/pages/collectionManagerIndex-02c94227d1a76576c9a3.js" async="">
-</script>
-<script src="/_next/static/N-j_bM_fWgmBrjhfR5Z4B/_buildManifest.js" async="">
-</script>
-<script src="/_next/static/N-j_bM_fWgmBrjhfR5Z4B/_ssgManifest.js" async="">
-</script> -->
+
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6550f63c4ed93526","token":"96047490de144c8b91be74ba7605ab69","version":"2021.5.1","si":10}'>
 </script>
 </body>
